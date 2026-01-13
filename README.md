@@ -1,4 +1,4 @@
-Web Development Fundamentals – Practice Repository
+**Web Development Fundamentals – Practice Repository**
 
 This repository contains my early practice files created while learning the fundamentals of HTML, CSS, and JavaScript.
 
